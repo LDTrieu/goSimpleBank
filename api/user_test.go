@@ -225,6 +225,7 @@ func TestLoginUserAPI(t *testing.T) {
 				require.Equal(t, http.StatusOK, recorder.Code)
 			},
 		},
+
 		{
 			name: "UserNotFound",
 			body: gin.H{
