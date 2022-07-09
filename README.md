@@ -7,7 +7,7 @@ The service is a simple bank. It will provide APIs for the frontend to do follow
 
 ## Database
 
-![Postgres](databaseSimpleBank.png)
+![Postgres](SimpleBank.png)
 
 
 ## Installation
